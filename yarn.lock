@@ -4108,10 +4108,10 @@ domutils@^3.0.1:
     domelementtype "^2.3.0"
     domhandler "^5.0.3"
 
-duck-duck-scrape@^2.2.4:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/duck-duck-scrape/-/duck-duck-scrape-2.2.4.tgz#4281311ddd51997af6dab6a7f0e7b953a34c78c0"
-  integrity sha512-5hbMNxKYFQZrykT2heDuLW4smBWDp1jHrTz2ZqaLQMAz/6fgdolgSWpDKWZCd7ZcYHgfvQrmc/cnU7ICuEqQ9Q==
+duck-duck-scrape@^2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/duck-duck-scrape/-/duck-duck-scrape-2.2.5.tgz#a756ef01a7002148daabe17be2436a239a478aa4"
+  integrity sha512-RTu/Ag5LhgD/j1l2zVGCwTINBoEYCffl58nMoBjtXWJG8tTex72h3gxpDjAr8jVqFaBvhgASNKTUsE31JeqYgw==
   dependencies:
     html-entities "^2.3.3"
     needle "^3.2.0"
